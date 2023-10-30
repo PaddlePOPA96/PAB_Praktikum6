@@ -30,9 +30,3 @@ const NewsDetail = ({ route }) => {
 };
 
 export default NewsDetail;
-
-
-
-
-
-
