@@ -1,4 +1,3 @@
-// Code by Ramadika Wijaya (1204210024) // 25 October 2023
 import { Box, Text, Image, View, Heading, ScrollView } from "native-base";
 import { Header } from "../components";
 
