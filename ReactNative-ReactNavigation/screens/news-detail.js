@@ -1,3 +1,4 @@
+// Code by Paddlepopa /1204215118
 import { Box, Text, Image, View, Heading, ScrollView } from "native-base";
 import { Header } from "../components";
 
